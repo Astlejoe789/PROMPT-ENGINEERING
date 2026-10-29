@@ -68,3 +68,4 @@ Step 7: Finalize and Export
 
 # Result
 
+The experiment compared Perplexity AI and Gemini AI using five identical prompts. Both produced useful technical responses with good accuracy, creativity, reasoning, speed, and engineering usefulness. However, their outputs require fact-checking to identify possible hallucinations.
