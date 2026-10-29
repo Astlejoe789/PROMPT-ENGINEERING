@@ -1,3 +1,7 @@
+## Name : ASTLE JOE A S
+## Register No : 212224240019
+
+
 # Aim:	Comprehensive Report on the Fundamentals of Generative AI and Large Language Models (LLMs)
 Experiment:
 Develop a comprehensive report for the following exercises:
